@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "concurrently": "^4.1.0",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^2.0.3",
